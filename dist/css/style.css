@@ -1,0 +1,13 @@
+.img-logo-header {
+    max-width: 45%;
+}
+
+@media(max-width: 767px) {
+    .img-logo-header {
+        max-width: 12%;
+    }
+}
+
+#inputDescriptionCreate {
+    word-wrap: normal;
+}
